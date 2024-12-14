@@ -17,7 +17,7 @@ let ParentContext = () => {
                 <br /> context-api will only use for send data fom parent to child level
             </div>
             <div className="container h3 bg-info">
-                i am not passing state to any child :- see the code
+                i am not passing state to any child directly by using context i am passing :- see the code
             </div>
             <div className="text-center mt-3 h3 text-info bg-dark">
                 Parent Component - Context API -- See The Code
